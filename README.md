@@ -1,6 +1,6 @@
 # Real Estate
 
-![portada](https://ibb.co/C2w9hJn)
+![portada](file:///C:/Users/chris/Downloads/kepler.gl%20(3).html)
 
 ## Objetivos 🚀
 
