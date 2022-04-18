@@ -1,6 +1,6 @@
-# Real Estate
-![portada](https://cdn-ajfbi.nitrocdn.com/GuYcnotRkcKfJXshTEEKnCZTOtUwxDnm/assets/static/optimized/rev-d86cb7c/wp-content/uploads/2019/07/ETL-e1563879776366.jpg)
-![portada](https://d1a3f4spazzrp4.cloudfront.net/kepler.gl/website/hero/kepler.gl-contours.png)
+# Real Estate Market
+
+![portada](https://www.nhar.org/assets/images/housing_market_graphic.jpg)
 
 ## Objetivos 🚀
 
@@ -29,8 +29,10 @@ Las funciones utilizadas se encuentran en un archivo dentro de la carpeta SRC, d
 ```
 └── project
     ├── Data
+    ├── images
     ├── Notebook
     ├── Src
+    ├── Streamlit
     ├── README.md
 ```
 
@@ -38,5 +40,5 @@ Las funciones utilizadas se encuentran en un archivo dentro de la carpeta SRC, d
 
 * **Christian Luengo** - *Autor* - christianluengo91@gmail.com
 
-Gracias a la ayuda de los profesores Ana Garcia y Jean-Charles Yamada. 
+Con la inestimable ayuda de los profesores Ana Garcia y Jean-Charles Yamada. 
 
