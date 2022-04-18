@@ -6,7 +6,7 @@
 
 Este proyecto es parte de mi formación en el bootcamp de análisis de datos de **[IronHack](https://www.ironhack.com/es)**. El principal objetivo es mejorar la accesibilidad a los datos e información referentes al mercado inmobiliario. Realizaremos un ETL donde a través de la librería **[Sqlalchemy]( https://www.sqlalchemy.org/)** crearemos una BBDD en [MySQL]( https://www.mysql.com/) e introduciremos el conjunto de datos que anteriormente extrajimos de la API. Para llevar a cabo el análisis visual utilizaremos tres herramientas:**[Tableau]( https://www.tableau.com/es-es)**, **[Streamlit]( https://streamlit.io/)** y **[Kepler.gl]( https://kepler.gl/)**.
 
-App con el analisis visual de las diferentes herramientas: **[Streamlit]( http://192.168.1.128:8501/)**
+App con el analisis visual de las diferentes herramientas: **[App_Real_Estate]( http://192.168.1.128:8501/)**
 
 ## Librerías 🛠️
 
