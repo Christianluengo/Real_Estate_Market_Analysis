@@ -4,9 +4,12 @@
 
 ## Objetivos 🚀
 
-Este proyecto es parte de mi formación en el bootcamp de análisis de datos de **[IronHack](https://www.ironhack.com/es)**. El principal objetivo es mejorar la accesibilidad a los datos e información referentes al mercado inmobiliario. Realizaremos un ETL donde a través de la librería **[Sqlalchemy]( https://www.sqlalchemy.org/)** crearemos una BBDD en [MySQL]( https://www.mysql.com/) e introduciremos el conjunto de datos que anteriormente extrajimos de la API. Para llevar a cabo el análisis visual utilizaremos tres herramientas: **[Tableau]( https://www.tableau.com/es-es)**, **[Streamlit]( https://streamlit.io/)** y **[Kepler.gl]( https://kepler.gl/)**.
+Este proyecto es parte de mi formación en el bootcamp de análisis de datos de **[IronHack](https://www.ironhack.com/es)**. El principal objetivo es mejorar la accesibilidad a los datos e información referentes al mercado inmobiliario. Realizaremos un ETL donde a través de la librería **[Sqlalchemy]( https://www.sqlalchemy.org/)** crearemos una BBDD en [MySQL]( https://www.mysql.com/) e introduciremos el conjunto de datos que anteriormente extrajimos de la API. Para llevar a cabo el análisis visual utilizaremos tres herramientas:**[Tableau]( https://www.tableau.com/es-es)**, **[Streamlit]( https://streamlit.io/)** y **[Kepler.gl]( https://kepler.gl/)**.
 
-![Image text](https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png) **[Streamlit]( https://streamlit.io/)**
+- **[Tableau]( https://public.tableau.com/app/profile/christianluengo/viz/RealEstateMarket_16502266573030/DashboardGlobal)**
+- **[Streamlit]( http://192.168.1.128:8501/)**
+- **[Kepler.gl]( file:///C:/Users/chris/Ironhack/projects/Real_Estate_Market_Analysis/Streamlit/kepler.html)**
+
 
 ## Librerías 🛠️
 
