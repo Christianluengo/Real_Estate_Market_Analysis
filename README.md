@@ -1,13 +1,14 @@
 # Real Estate
-
-![portada](file:///C:/Users/chris/Downloads/kepler.gl%20(3).html)
+![portada](https://cdn-ajfbi.nitrocdn.com/GuYcnotRkcKfJXshTEEKnCZTOtUwxDnm/assets/static/optimized/rev-d86cb7c/wp-content/uploads/2019/07/ETL-e1563879776366.jpg)
+![portada](https://d1a3f4spazzrp4.cloudfront.net/kepler.gl/website/hero/kepler.gl-contours.png)
 
 ## Objetivos 🚀
 
-Este proyecto es parte de mi formación en el bootcamp de análisis de datos de **[IronHack](https://www.ironhack.com/es)**. El principal objetivo es mejorar la accesibilidad a los datos e información referentes al mercado inmobiliario. Para ello, accederemos a la API de un portal inmobiliario donde se encuentran más de 300.000 publicaciones sobre viviendas en venta. La API de este portal inmobiliario, salvo error, no esta publicada en ninguna web. Entender su estructura para poder acceder a la información que deseamos es uno de los principales objetivos. Una vez realizado la extracción de forma estructurada comprobaremos si existe algún tipo de relación entre el precio y las características que pueda tener una vivienda. El dataset será complementado con un CSV donde podemos encontrar el salario bruto medio por persona según el municipio.  Podéis encontrarlo en la web oficial del [INE]( https://www.ine.es/).
+Este proyecto es parte de mi formación en el bootcamp de análisis de datos de **[IronHack](https://www.ironhack.com/es)**. El principal objetivo es mejorar la accesibilidad a los datos e información referentes al mercado inmobiliario. Realizaremos un ETL donde a través de la librería **[Sqlalchemy]( https://www.sqlalchemy.org/)** crearemos una BBDD en [MySQL]( https://www.mysql.com/) e introduciremos el conjunto de datos que anteriormente extrajimos de la API. Para llevar a cabo el análisis visual utilizaremos tres herramientas: **[Tableau]( https://www.tableau.com/es-es)**, **[Streamlit]( https://streamlit.io/)** y **[Kepler.gl]( https://kepler.gl/)**.
 
 ## Librerías 🛠️
 
+- Sqlalchemy
 - Pandas
 - Numpy
 - Os
@@ -15,11 +16,11 @@ Este proyecto es parte de mi formación en el bootcamp de análisis de datos de 
 - Requests
 - Re
 - Ast
-- warnings
-- datetime
-- streamlit
-- streamlit.components.v1
-- streamlit_option_menu
+- Warnings
+- Datetime
+- Streamlit
+- Streamlit.components.v1
+- Streamlit_option_menu
 
 ## Estructura de carpetas ⚙️
 
