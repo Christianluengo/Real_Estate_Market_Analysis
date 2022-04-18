@@ -1,6 +1,6 @@
 # Real Estate
 
-![portada]( https://i0.wp.com/eduardorosas.mx/wp-content/uploads/2020/07/Finance-Blog-1.png?resize=1024%2C576&ssl=1)
+![portada](https://ibb.co/C2w9hJn)
 
 ## Objetivos 🚀
 
@@ -14,9 +14,12 @@ Este proyecto es parte de mi formación en el bootcamp de análisis de datos de 
 - Sys
 - Requests
 - Re
-- Seaborn
-- Matplotlib
 - Ast
+- warnings
+- datetime
+- streamlit
+- streamlit.components.v1
+- streamlit_option_menu
 
 ## Estructura de carpetas ⚙️
 
